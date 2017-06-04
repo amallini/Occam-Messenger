@@ -1,6 +1,0 @@
-﻿1>------ Build started: Project: PostQuantumCrypto, Configuration: Release Any CPU ------
-1>C:\Users\User\Documents\Visual Studio 2015\Projects\PostQuantumCrypto\PostQuantumCryptoRTF\CreateChannel.cs(24,7,24,33): warning CS0105: The using directive for 'agsXMPP.protocol.iq.roster' appeared previously in this namespace
-1>C:\Users\User\Documents\Visual Studio 2015\Projects\PostQuantumCrypto\PostQuantumCryptoRTF\Form1.cs(1474,17,1474,33): warning CS0219: The variable 'OriginalFileSize' is assigned but its value is never used
-1>C:\Users\User\Documents\Visual Studio 2015\Projects\PostQuantumCrypto\PostQuantumCryptoRTF\Form1.cs(1742,17,1742,63): warning CS0618: 'WaveFileWriter.WriteData(byte[], int, int)' is obsolete: 'Use Write instead'
-1>  PostQuantumCrypto -> C:\Users\User\Documents\Visual Studio 2015\Projects\PostQuantumCrypto\PostQuantumCryptoRTF\bin\Release\PostQuantumCrypto.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
