@@ -1,6 +1,8 @@
 # Occam-Messenger
 The SIMPLEST and most reliable messenger available.
 
+See English version below.
+
 Кто не знает - Бритва Оккама - это правило, которое гласит "Не вводи новых сущностей без необходимости".
 
 Данный проект называется Оккам потому что для передачи сообщений не используется какой-либо мессенджерский протокол (AIM, XMPP и т.п.)
@@ -37,3 +39,25 @@ C;F:<имя файла>
 Хотите - добавляйте.
 
 Удачи.
+-------------------------------------------------------------------------------------------------------------------------------
+
+English version
+
+Who knows - Occam's Razor is a rule that States "Not to introduce new entities without necessity."
+This project is called Occam because for messaging I don't use any special protocol like AIM or XMPP.
+Agree, it's great because you don't have to spend time to study them, to look for a ready NuGet packages and to deal with them.
+Suddenly (!) it turned out that for almost instant transfer of messages, you can use public folders of cloud services like DropBox.
+It's still great because this method of transmitting messages almost impossible to ban.
+
+All you need is to register with DropBox (or its competitor), download Windows client, create a shared folder and send an invitation to the subscriber. The subscriber has the invitation to accept, if he does not have DropBox, then register and install the Windows client. As a result, you will have a physical folder with the magical ability to sync files. DropBox has a delay of 5-6 seconds. MS OneDrive for about 3 seconds, and pCloud has a delay of 1.5 ыусщтвы and this is the best of what I tested.
+
+After that, the transmission of a message is as simple as copying the file with this message in a public folder.
+
+To receive a message is very simple - you need a timer to poll the folder and if there is something out there - to read a file and extract from it a message.
+
+The program can only to transfer text, files and status. It allows conference. That's all. Nothing more. It's Occam.
+If you want add what do you want. It's open source.
+
+Good luck!
+
+
